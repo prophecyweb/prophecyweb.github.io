@@ -353,56 +353,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/blog/blog-photos-on-phone/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/installation/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/the-nourish-box-august/</loc>
-    <lastmod>2018-07-08T12:20:58+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/this-show-has-divided/</loc>
-    <lastmod>2018-07-08T12:18:46+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/why-you-need-a-statement-bag-this-season/</loc>
-    <lastmod>2018-07-08T12:11:29+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/are-you-doing-the-right-way/</loc>
-    <lastmod>2018-07-07T17:04:41+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/blog/are-you-doing-the-right-way/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/blog/are-you-doing-the-right-way/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/something-i-need-to-tell-you/</loc>
-    <lastmod>2018-07-07T17:04:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/ten-things-about-business/</loc>
-    <lastmod>2018-07-07T16:57:54+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/contact/</loc>
     <lastmod>2018-07-07T15:53:27+06:00</lastmod>
     <xhtml:link

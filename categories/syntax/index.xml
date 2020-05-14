@@ -2,28 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>syntax on Prophecy: The MUD</title>
-    <link>/categories/syntax/</link>
+    <link>https://example.com/categories/syntax/</link>
     <description>Recent content in syntax on Prophecy: The MUD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://example.com/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
-        <title>Tell Me About Prophecy...</title>
-        <link>/blog/markdown-syntax/</link>
-        <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+        <title>Markdown Syntax Guide</title>
+        <link>https://example.com/blog/markdown-syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/blog/markdown-syntax/</guid>
-        <description>&lt;p&gt;Prophecy: The MUD is a huge world (+121 original areas) run on heavily modified ROM 2.4 code. Prophecy’s content and gaming style is based on the David Eddings fantasy book series The Belgariad and The Malloreon. The books serve as the basis for a character’s race, class, and initial alignment. The game is a natural for roleplay, yet also provides opportunities for restricted player killing. A friendly player base and clans dedicated to new player support make Prophecy the perfect beginner’s gateway to MUDs.&lt;/p&gt;
-&lt;p&gt;The game features “Immortal”-hosted quests for added amusement and prizes, as well as auto-questing to earn customizable gear, experience, and in-game currency. In addition, unique mini-quests can be found in many areas that offer a challenge as well as rich rewards.&lt;/p&gt;
-&lt;p&gt;Prophecy MUD was officially ported to the Go language in December 2019 after years of development, facilitating continuous improvement and ensuring stable gameplay for years to come. “King Anheg” is keeping busy with new changes such as elective ‘hometowns’, ooc buffer retrieval for catching up on the latest public discussions, and other Good ThingsTM !&lt;/p&gt;
-&lt;p&gt;Are you a Prophecy “veteran”? Drop in and check the place out–we love seeing returning players! If you ever built an area here, it’s most likely still in use (and we thank you!). We’re a no-pwipe MUD, so your character(s), hostel room stash, and quest eq are right where you left them. In any case, if you like the idea of reliving the glory days of ROM MUDs, are a new player looking for a first game to cut your teeth on, or simply looking for a place to while away a few hours in one of the longest-running servers out there, point your client to: mud.prophecy.lu 4000. Or, for instant gratification, use a ready-to-play browser client: Grapevine or MudPortal&lt;/p&gt;
-&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;</description>
+        <guid>https://example.com/blog/markdown-syntax/</guid>
+        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       </item>
       
     

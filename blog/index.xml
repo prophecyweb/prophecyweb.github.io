@@ -1,76 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Prophecy: The MUD</title>
-    <link>https://example.com/blog/</link>
-    <description>Recent content in Blog on Prophecy: The MUD</description>
+    <title>Blog on Prophecy MUD</title>
+    <link>https://prophecyweb.github.io/blog/</link>
+    <description>Recent content in Blog on Prophecy MUD</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://prophecyweb.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Tell me about Prophecy MUD</title>
+      <link>https://prophecyweb.github.io/blog/foreword/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://prophecyweb.github.io/blog/foreword/</guid>
+      <description>Prophecy MUD is a huge, text-based world (+121 original areas) run on heavily modified ROM 2.4 code. Like all traditional MUDs, Prophecy is completely devoid of graphics. This is a feature, not a bug! First-time MUD gamers will be surprised how very engrossing a text-based game can be. Prophecy’s content and gaming style is based on the popular David Eddings fantasy series The Belgariad and The Malloreon. The books serve as the basis for choice of character race, class, and initial alignment.</description>
+    </item>
     
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://prophecyweb.github.io/blog/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <item>
-        <title>Tell Me About Prophecy...</title>
-        <link>https://example.com/blog/landing/</link>
-        <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/blog/landing/</guid>
-        <description>&lt;p&gt;Prophecy: The MUD is a huge world (+121 original areas) run on heavily modified ROM 2.4 code. Prophecy’s content and gaming style is based on the David Eddings fantasy book series The Belgariad and The Malloreon. The books serve as the basis for a character’s race, class, and initial alignment. The game is a natural for roleplay, yet also provides opportunities for restricted player killing. A friendly player base and clans dedicated to new player support make Prophecy the perfect beginner’s gateway to MUDs.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Prophecy features “Immortal”-hosted quests for added amusement and prizes, as well as auto-questing to earn customizable gear, experience, and in-game currency. In addition, unique mini-quests can be found in many areas that offer a challenge as well as rich rewards.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Prophecy MUD was officially ported to the Go language in December 2019 after years of development, facilitating continuous improvement and ensuring stable gameplay for years to come. “King Anheg” is keeping busy with new changes such as elective ‘hometowns’, ooc buffer retrieval for catching up on the latest public discussions, and other Good Things(TM) !&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Are you a Prophecy “veteran”? Drop in and check the place out–we love seeing returning players! If you ever built an area here, it’s most likely still in use (and we thank you!). We’re a no-pwipe MUD, so your character(s), hostel room stash, and quest eq are right where you left them. In any case, if you like the idea of reliving the glory days of ROM MUDs, are a new player looking for a first game to cut your teeth on, or simply looking for a place to while away a few hours in one of the longest-running servers out there, point your client to: mud.prophecy.lu 4000. Or, for instant gratification, use one of these ready-to-play browser clients:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;• &lt;a href=&#34;https://grapevine.haus/games/Prophecy/play&#34; target=&#34;_blank&#34;&gt;Prophecy on Grapevine&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;• &lt;a href=&#34;http://www.mudportal.com/play?host=mud.prophecy.lu&amp;amp;port=4000&#34; target=&#34;_blank&#34;&gt;Prophecy on MudPortal&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;</description>
-      </item>
-      
-      <item>
-        <title>Markdown Syntax Guide</title>
-        <link>https://example.com/blog/markdown-syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/blog/markdown-syntax/</guid>
-        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Rich Content</title>
-        <link>https://example.com/blog/rich-content/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/blog/rich-content/</guid>
-        <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34; target=&#34;_blank&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34; target=&#34;_blank&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Placeholder Text</title>
-        <link>https://example.com/blog/placeholder-text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/blog/placeholder-text/</guid>
-        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Emoji Support</title>
-        <link>https://example.com/blog/emoji-support/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/blog/emoji-support/</guid>
-        <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-      </item>
-      
+      <guid>https://prophecyweb.github.io/blog/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
     
   </channel>
 </rss>

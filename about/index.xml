@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Us ... on Prophecy: The MUD</title>
-    <link>https://example.com/about/</link>
-    <description>Recent content in About Us ... on Prophecy: The MUD</description>
+    <title>About Hugo on Prophecy MUD</title>
+    <link>https://prophecyweb.github.io/about/</link>
+    <description>Recent content in About Hugo on Prophecy MUD</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://prophecyweb.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    
-      
     
   </channel>
 </rss>

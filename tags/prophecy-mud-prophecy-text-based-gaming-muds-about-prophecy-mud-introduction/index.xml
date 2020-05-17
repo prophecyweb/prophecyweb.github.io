@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prophecy MUD, Prophecy, Text-based gaming, MUDs, About Prophecy MUD, Introduction on Prophecy MUD</title>
+    <link>https://prophecyweb.github.io/tags/prophecy-mud-prophecy-text-based-gaming-muds-about-prophecy-mud-introduction/</link>
+    <description>Recent content in Prophecy MUD, Prophecy, Text-based gaming, MUDs, About Prophecy MUD, Introduction on Prophecy MUD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://prophecyweb.github.io/tags/prophecy-mud-prophecy-text-based-gaming-muds-about-prophecy-mud-introduction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tell me about Prophecy MUD</title>
+      <link>https://prophecyweb.github.io/blog/foreword/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://prophecyweb.github.io/blog/foreword/</guid>
+      <description>Prophecy MUD is a huge, text-based world (+121 original areas) run on heavily modified ROM 2.4 code. Like all traditional MUDs, Prophecy is completely devoid of graphics. This is a feature, not a bug! First-time MUD gamers will be surprised how very engrossing a text-based game can be. Prophecy’s content and gaming style is based on the popular David Eddings fantasy series The Belgariad and The Malloreon. The books serve as the basis for choice of character race, class, and initial alignment.</description>
+    </item>
+    
+  </channel>
+</rss>

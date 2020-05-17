@@ -1,126 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Prophecy: The MUD</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Prophecy: The MUD</description>
+    <title>Tags on Prophecy MUD</title>
+    <link>https://prophecyweb.github.io/tags/</link>
+    <description>Recent content in Tags on Prophecy MUD</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://prophecyweb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Prophecy MUD, Prophecy, Text-based gaming, MUDs, About Prophecy MUD, Introduction</title>
+      <link>https://prophecyweb.github.io/tags/prophecy-mud-prophecy-text-based-gaming-muds-about-prophecy-mud-introduction/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://prophecyweb.github.io/tags/prophecy-mud-prophecy-text-based-gaming-muds-about-prophecy-mud-introduction/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>tutorial</title>
+      <link>https://prophecyweb.github.io/tags/tutorial/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <item>
-        <title>gaming</title>
-        <link>https://example.com/tags/gaming/</link>
-        <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/gaming/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>MUDs</title>
-        <link>https://example.com/tags/muds/</link>
-        <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/muds/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Prophecy</title>
-        <link>https://example.com/tags/prophecy/</link>
-        <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/prophecy/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>text</title>
-        <link>https://example.com/tags/text/</link>
-        <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/text/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>text-based gaming</title>
-        <link>https://example.com/tags/text-based-gaming/</link>
-        <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/text-based-gaming/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>css</title>
-        <link>https://example.com/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/css/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>html</title>
-        <link>https://example.com/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/html/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>markdown</title>
-        <link>https://example.com/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/markdown/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>themes</title>
-        <link>https://example.com/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/themes/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>privacy</title>
-        <link>https://example.com/tags/privacy/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/privacy/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>shortcodes</title>
-        <link>https://example.com/tags/shortcodes/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/shortcodes/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>emoji</title>
-        <link>https://example.com/tags/emoji/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/emoji/</guid>
-        <description></description>
-      </item>
-      
+      <guid>https://prophecyweb.github.io/tags/tutorial/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
